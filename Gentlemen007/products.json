@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "beard comb",
+        "price": 19.99,
+        "image": { "fields": { "file": {  
+        "url": "./images/product-1.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "shampoo",
+        "price": 34.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-2.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "beard oil",
+        "price": 24.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-3.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "blow dryer",
+        "price": 99.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-4.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "charcoal mask",
+        "price": 29.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-5.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "parfum",
+        "price": 119.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-6.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "apron",
+        "price": 37.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-7.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "scissor",
+        "price": 219.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-8.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "trimmer",
+        "price": 139.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-9.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "clipper",
+        "price": 179.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-10.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "moisturizer",
+        "price": 19.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-11.jpg" } } 
+        }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "shaving cream",
+        "price": 24.99,
+        "image": { "fields": { "file": { 
+        "url": "./images/product-12.jpg" } } 
+        }
+      }
+    }
+  ]
+}

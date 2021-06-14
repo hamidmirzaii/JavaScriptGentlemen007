@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Gentlemen007</title>
+    <!-- font awesome -->
+    <script src="https://kit.fontawesome.com/e21310b67c.js" crossorigin="anonymous"></script>
+
+    <!-- custome CSS -->
+    <Link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <!--NavBar-->
+    <nav class="navbar">
+        <div class="navbar-center">
+            <span class="nav-icon">
+                <!--<i  class="fas fa-bars"></i>-->
+                <a href="./index.html">Exit</a>
+            </span>
+            <img src="./images/intro.png" alt="store logo" />
+            <div class="cart-btn">
+                <span class="nav-icon">
+                    <i class="fas fa-cart-plus"></i>
+                </span>
+                <div class="cart-items">0</div>
+            </div>
+        </div>
+    </nav>
+
+  
+    
+    <div class="container">
+        <h3>To reach us please fill this form</h3>
+        <br>
+        <form action="/action_page.php">
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    
+            <label for="country">Country</label>
+            <select id="country" name="country">
+                <option value="australia">Germany</option>
+                <option value="canada">Canada</option>
+                <option value="usa">USA</option>
+            </select>
+    
+            <label for="subject">Subject</label>
+            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+    <div class="footer">
+        <p>@Reserve Right -Gentlemen007</p>
+    </div>
+    <!--End of cart-->
+    <script src="app.js"></script>
+</body>
+    
+</html>
+<!--End Of NavBar-->
